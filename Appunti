@@ -1,0 +1,4 @@
+Sveglia funzionante :cheers
+	Start canzone all'allarme
+	Gestione input Async
+		Due thread principali, comunicano tramite Queue
